@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🚀 A. Suneel – Bridging Civil Engineering with Code</h1>
+<h1 align="center">🚀 Suneel Abbireddy – Bridging Civil Engineering with Code</h1>
 
 <p align="center">
   <i>“Dedicated to building smart, efficient, and resilient civil infrastructures using emerging technologies.”</i>
