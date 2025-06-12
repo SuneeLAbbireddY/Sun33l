@@ -13,7 +13,6 @@
 > Dedicated and motivated Civil Engineer with a strong academic foundation in **Structural Engineering** and **Finite Element Analysis (FEA)**. I blend traditional civil engineering with the power of **Python programming** to create futuristic and accurate solutions. My goal is to contribute to **innovative research** and **AI-powered civil technologies**.
 
 ---
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 ## 🧠 Technical Skills & Toolkits
 
 - 💻 Programming: `Python`, `Java`
@@ -110,4 +109,4 @@ Feel free to reach out for collaborations, mentorship, or just a chat on the fut
 ---
 
 > _“Engineering the future — one line of code and one beam at a time.”_
-
+![snake gif](https://github.com/SuneeLAbbireddY/SuneeLAbbireddY/blob/output/github-contribution-grid-snake.gif)
