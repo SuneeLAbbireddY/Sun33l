@@ -109,4 +109,6 @@ Feel free to reach out for collaborations, mentorship, or just a chat on the fut
 ---
 
 > _“Engineering the future — one line of code and one beam at a time.”_
-![snake gif](https://github.com/SuneeLAbbireddY/SuneeLAbbireddY/blob/output/github-contribution-grid-snake.gif)
+
+
+![snake gif](https://github.com/SuneeLAbbireddY/Sun33l/blob/output/github-contribution-grid-snake.gif)
