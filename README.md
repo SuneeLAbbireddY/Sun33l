@@ -1,8 +1,3 @@
-# 🚀 Vishwakarma.Codes — Bridging Civil Engineering & AI
-
-> _"Where Structures Meet Software"_  
-> _Crafting the Future of Civil-Tech with Code & Creativity_
-
 ---
 
 ## 👨‍💻 About Me
