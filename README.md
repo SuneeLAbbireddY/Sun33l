@@ -105,7 +105,7 @@
 Feel free to reach out for collaborations, mentorship, or just a chat on the future of civil-tech!
 
 > ✉️ **Email:** *suneelabbireddy2031@gmail.com*    
-> 🔗 **LinkedIn / GitHub:** *[[(linkedin.com/in/suneel-abbireddy/)]]*
+> 🔗 **LinkedIn / GitHub:** *linkedin.com/in/suneel-abbireddy*
 
 ---
 
