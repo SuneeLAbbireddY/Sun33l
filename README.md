@@ -346,7 +346,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Open%20to%20Collaborations-🤝%20Let's%20Build%20Together-blue?style=for-the-badge&logo=handshake" alt="Collaborations" />
   <img src="https://img.shields.io/badge/Available%20for%20Freelance-💼%20Hire%20Me-green?style=for-the-badge&logo=briefcase" alt="Freelance" />
   <img src="https://img.shields.io/badge/Mentorship-👨‍🏫%20Open%20to%20Mentor-purple?style=for-the-badge&logo=graduation-cap" alt="Mentorship" />
