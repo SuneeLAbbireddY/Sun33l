@@ -262,10 +262,10 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
   <img src="https://img.shields.io/badge/Telugu-Native%20Speaker-red?style=for-the-badge&logo=language" alt="Telugu" />
   <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=language" alt="English" />
   <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="Hindi" />
-  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="Kannada" />
-  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="Tamil" />
-  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="Spanish" />
-  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="German" />
+  <img src="https://img.shields.io/badge/Kannada-Conversational-orange?style=for-the-badge&logo=language" alt="Kannada" />
+  <img src="https://img.shields.io/badge/Tamil-Conversational-orange?style=for-the-badge&logo=language" alt="Tamil" />
+  <img src="https://img.shields.io/badge/Spanish-Conversational-orange?style=for-the-badge&logo=language" alt="Spanish" />
+  <img src="https://img.shields.io/badge/German-Conversational-orange?style=for-the-badge&logo=language" alt="German" />
 </div>
 
 ### 🗣️ Language Proficiency
