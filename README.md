@@ -363,5 +363,5 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=SuneeLAbbireddY&style=flat-square&color=4F46E5" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20☕-by%20Suneel%20Abbireddy-red?style=flat-square" alt="Made with Love" />
-  <img src="https://img.shields.io/badge/Last%20Updated-December%202024-blue?style=flat-square" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Last%20Updated-June%202025-blue?style=flat-square" alt="Last Updated" />
 </div> 
