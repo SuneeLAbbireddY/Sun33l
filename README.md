@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&height=120&lines=Hello%2C%20I'm%20Suneel%20Abbireddy;Civil%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast;Building%20Tomorrow's%20Infrastructure%20with%20Code%20%26%20Concrete" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=31&pause=1000&color=4F46E5&center=true&vCenter=true&width=1100&height=120&lines=Hello%2C%20I'm%20Suneel%20Abbireddy;Civil%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast;Building%20Tomorrow's%20Infrastructure%20with%20Code%20%26%20Concrete" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,36 +20,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuneeLAbbireddY&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8&exclude_repo=Sun33l" alt="Top Languages" />
 </div>
 
-### 🔧 GitHub Stats Troubleshooting
-If you can't see total commits, here are the possible reasons and solutions:
-
-**Common Issues:**
-- **Repository Privacy**: Private repositories won't show commits unless you're logged in
-- **API Rate Limits**: GitHub API has rate limits that might affect data loading
-- **Repository Activity**: Inactive repositories might not show recent commits
-- **Username Case Sensitivity**: Ensure the username matches exactly (case-sensitive)
-
-**Solutions:**
-1. **Make repositories public** if you want commits to be visible
-2. **Add more commits** to your repositories to increase activity
-3. **Check your GitHub username** spelling and case
-4. **Wait a few minutes** for the API to refresh data
-
-**Alternative Configurations:**
-```markdown
-<!-- Basic Stats (shows total commits) -->
-<img src="https://github-readme-stats.vercel.app/api?username=SuneeLAbbireddY&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
-<!-- Detailed Stats (shows more metrics) -->
-<img src="https://github-readme-stats.vercel.app/api?username=SuneeLAbbireddY&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&hide=contribs,issues" />
-```
-
 ---
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=4F46E5&center=true&vCenter=true&width=800&height=60&lines=Dedicated%20to%20building%20smart%2C%20efficient%2C%20and%20resilient%20civil%20infrastructures;Using%20emerging%20technologies%20to%20revolutionize%20traditional%20engineering%20practices" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=4F46E5&center=true&vCenter=true&width=1100&height=60&lines=Dedicated%20to%20building%20smart%2C%20efficient%2C%20and%20resilient%20civil%20infrastructures;Using%20emerging%20technologies%20to%20revolutionize%20traditional%20engineering%20practices" alt="About Me" />
 </div>
 
 I'm a passionate **Civil Engineer** with expertise in **Structural Engineering** and **Finite Element Analysis (FEA)**. My unique approach combines traditional civil engineering principles with cutting-edge **Python programming** and **AI/ML technologies** to create innovative solutions for tomorrow's infrastructure challenges.
@@ -67,7 +43,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 ## 🛠️ Technical Arsenal
 
 ### 💻 Programming & Development
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -79,7 +55,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 </div>
 
 ### 🏗️ Civil Engineering Software
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
   <img src="https://img.shields.io/badge/Revit-000000?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit" />
   <img src="https://img.shields.io/badge/Inventor-000000?style=for-the-badge&logo=autodesk&logoColor=white" alt="Inventor" />
@@ -88,7 +64,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 </div>
 
 ### 📊 Data & Analytics
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
@@ -96,7 +72,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 </div>
 
 ### 🚀 Tools & Platforms
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -108,7 +84,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 📊 Skill Proficiency
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Expert" />
   <img src="https://img.shields.io/badge/Structural%20Analysis-Advanced-4F46E5?style=for-the-badge&logo=calculator" alt="Structural Analysis" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow" alt="Machine Learning" />
@@ -126,14 +102,14 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 🔬 Research & Publications
 
-<div align="center">
+<div align="leftr">
   <img src="https://img.shields.io/badge/Publication-IJAMCE-blue?style=for-the-badge&logo=researchgate" alt="Publication" />
   <img src="https://img.shields.io/badge/Research-Civil%20Engineering-green?style=for-the-badge&logo=microscope" alt="Research" />
   <img src="https://img.shields.io/badge/Innovation-AI%20Integration-purple?style=for-the-badge&logo=lightbulb" alt="Innovation" />
 </div>
 
 ### 📄 Featured Publication
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Journal-IJAMCE-blue?style=for-the-badge" alt="Journal" />
   <img src="https://img.shields.io/badge/Volume-10%20Issue%202-green?style=for-the-badge" alt="Volume" />
   <img src="https://img.shields.io/badge/Date-April%202023-orange?style=for-the-badge" alt="Date" />
@@ -149,7 +125,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 🚧 Featured Projects
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Projects-6%20Major%20Projects-blue?style=for-the-badge&logo=rocket" alt="Projects" />
   <img src="https://img.shields.io/badge/Success%20Rate-97.988%25-green?style=for-the-badge&logo=chart-line" alt="Success Rate" />
   <img src="https://img.shields.io/badge/Team%20Leadership-5%2B%20Projects-purple?style=for-the-badge&logo=users" alt="Team Leadership" />
@@ -233,7 +209,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 🎓 Academic Journey
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Education-B.Tech%20Civil%20Engineering-blue?style=for-the-badge&logo=graduation-cap" alt="Education" />
   <img src="https://img.shields.io/badge/CGPA-7.82%2F10-green?style=for-the-badge&logo=star" alt="CGPA" />
   <img src="https://img.shields.io/badge/Research-Publications-purple?style=for-the-badge&logo=book" alt="Research" />
@@ -251,27 +227,27 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 🏆 Certifications & Achievements
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Certifications-8%20Professional%20Certs-green?style=for-the-badge&logo=certificate" alt="Certifications" />
   <img src="https://img.shields.io/badge/Internships-2%20Professional%20Internships-blue?style=for-the-badge&logo=briefcase" alt="Internships" />
   <img src="https://img.shields.io/badge/Achievements-Multiple%20Awards-purple?style=for-the-badge&logo=trophy" alt="Achievements" />
 </div>
 
 ### 🤖 AI & Machine Learning
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-VN%20Technologies-green?style=for-the-badge&logo=python" alt="ML Python" />
   <img src="https://img.shields.io/badge/AI%20for%20Everyone-DeepLearning.AI-blue?style=for-the-badge&logo=ai" alt="AI for Everyone" />
   <img src="https://img.shields.io/badge/Generative%20AI%20%26%20ChatGPT-IIT%20Hyderabad-purple?style=for-the-badge&logo=chatgpt" alt="Generative AI" />
 </div>
 
 ### 🏗️ Civil Engineering
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/AutoCAD%20Internship-Verzeo%20EduTech-orange?style=for-the-badge&logo=autodesk" alt="AutoCAD Internship" />
   <img src="https://img.shields.io/badge/Structural%20Dynamics%20using%20Python-Udemy-green?style=for-the-badge&logo=python" alt="Structural Dynamics" />
 </div>
 
 ### 💻 Programming & Development
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Face%20Recognition%20App%20with%20Python-GUVI%2C%20IITM%20RP-blue?style=for-the-badge&logo=python" alt="Face Recognition" />
   <img src="https://img.shields.io/badge/Programming%20for%20Everybody-Coursera-green?style=for-the-badge&logo=coursera" alt="Programming" />
   <img src="https://img.shields.io/badge/Career%20Edge-TCS%20iON-purple?style=for-the-badge&logo=tcs" alt="Career Edge" />
@@ -282,10 +258,14 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 🌍 Languages & Communication
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Telugu-Native%20Speaker-red?style=for-the-badge&logo=language" alt="Telugu" />
   <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=language" alt="English" />
   <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="Hindi" />
+  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="Kannada" />
+  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="Tamil" />
+  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="Spanish" />
+  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=language" alt="German" />
 </div>
 
 ### 🗣️ Language Proficiency
@@ -297,7 +277,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 🎯 Key Accomplishments
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Team%20Leadership-5%2B%20Projects-blue?style=for-the-badge&logo=users" alt="Team Leadership" />
   <img src="https://img.shields.io/badge/Efficiency%20Improvement-50%25%20Productivity-green?style=for-the-badge&logo=chart-line" alt="Efficiency" />
   <img src="https://img.shields.io/badge/Project%20Timeline-11%20Days%20Early-purple?style=for-the-badge&logo=clock" alt="Timeline" />
@@ -318,7 +298,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 🎨 Interests & Hobbies
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Chess-♟️%20Strategic%20Thinking-blue?style=for-the-badge&logo=chess" alt="Chess" />
   <img src="https://img.shields.io/badge/Basketball-🏀%20Team%20Sports-orange?style=for-the-badge&logo=basketball" alt="Basketball" />
   <img src="https://img.shields.io/badge/Music-🎧%20Creative%20Inspiration-purple?style=for-the-badge&logo=music" alt="Music" />
@@ -337,8 +317,8 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 🚀 Vision & Mission
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2000&color=4F46E5&center=true&vCenter=true&width=900&height=80&lines=Bridging%20the%20legacy%20of%20concrete%20and%20steel%20with%20the%20future%20of%20algorithms%20and%20AI;Contributing%20to%20next-generation%20infrastructure%20systems%20and%20autonomous%20design;Engineering%20the%20future%20%E2%80%94%20one%20line%20of%20code%20and%20one%20beam%20at%20a%20time" alt="Vision" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=4F46E5&center=true&vCenter=true&width=1100&height=80&lines=Bridging%20the%20legacy%20of%20concrete%20and%20steel%20with%20the%20future%20of%20algorithms%20and%20AI;Contributing%20to%20next-generation%20infrastructure%20systems%20and%20autonomous%20design;Engineering%20the%20future%20%E2%80%94%20one%20line%20of%20code%20and%20one%20beam%20at%20a%20time" alt="Vision" />
 </div>
 
 ### 🎯 Long-term Goals
@@ -351,7 +331,7 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="left">
   <a href="mailto:suneelabbireddy2031@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -374,13 +354,13 @@ I'm a passionate **Civil Engineer** with expertise in **Structural Engineering**
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/SuneeLAbbireddY/Sun33l/blob/output/github-contribution-grid-snake.gif" alt="Contribution Snake" />
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=SuneeLAbbireddY&style=flat-square&color=4F46E5" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20☕-by%20Suneel%20Abbireddy-red?style=flat-square" alt="Made with Love" />
   <img src="https://img.shields.io/badge/Last%20Updated-December%202024-blue?style=flat-square" alt="Last Updated" />
