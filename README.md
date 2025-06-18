@@ -12,13 +12,37 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuneeLAbbireddY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuneeLAbbireddY&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF&currStreakLabel=4F46E5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuneeLAbbireddY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&include_all_commits=true&count_private=true&show_owner=true&hide=contribs,issues" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuneeLAbbireddY&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF&currStreakLabel=4F46E5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&include_all_commits=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuneeLAbbireddY&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuneeLAbbireddY&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8&exclude_repo=Sun33l" alt="Top Languages" />
 </div>
+
+### 🔧 GitHub Stats Troubleshooting
+If you can't see total commits, here are the possible reasons and solutions:
+
+**Common Issues:**
+- **Repository Privacy**: Private repositories won't show commits unless you're logged in
+- **API Rate Limits**: GitHub API has rate limits that might affect data loading
+- **Repository Activity**: Inactive repositories might not show recent commits
+- **Username Case Sensitivity**: Ensure the username matches exactly (case-sensitive)
+
+**Solutions:**
+1. **Make repositories public** if you want commits to be visible
+2. **Add more commits** to your repositories to increase activity
+3. **Check your GitHub username** spelling and case
+4. **Wait a few minutes** for the API to refresh data
+
+**Alternative Configurations:**
+```markdown
+<!-- Basic Stats (shows total commits) -->
+<img src="https://github-readme-stats.vercel.app/api?username=SuneeLAbbireddY&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+
+<!-- Detailed Stats (shows more metrics) -->
+<img src="https://github-readme-stats.vercel.app/api?username=SuneeLAbbireddY&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&hide=contribs,issues" />
+```
 
 ---
 
