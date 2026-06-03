@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Civil%20Engineer-🏗️-blue?style=for-the-badge&logo=structural" alt="Civil Engineer" />
-  <img src="https://img.shields.io/badge/Python%20Developer-🐍-green?style=for-the-badge&logo=python" alt="Python Developer" />
-  <img src="https://img.shields.io/badge/AI%20%7C%20ML%20Enthusiast-🤖-purple?style=for-the-badge&logo=tensorflow" alt="AI/ML Enthusiast" />
-  <img src="https://img.shields.io/badge/Structural%20Analyst-📐-orange?style=for-the-badge&logo=calculator" alt="Structural Analyst" />
+  <img src="https://img.shields.io/badge/Civil%20Engineer--blue?style=for-the-badge&logo=structural" alt="Civil Engineer" />
+  <img src="https://img.shields.io/badge/Python%20Developer--green?style=for-the-badge&logo=python" alt="Python Developer" />
+  <img src="https://img.shields.io/badge/AI%20%7C%20ML%20Enthusiast--purple?style=for-the-badge&logo=tensorflow" alt="AI/ML Enthusiast" />
+  <img src="https://img.shields.io/badge/Structural%20Analyst--orange?style=for-the-badge&logo=calculator" alt="Structural Analyst" />
 </div>
 
 ---
